@@ -28,6 +28,7 @@
   "dependencies": {
     "moment": "^2.10.3",
     "utils-merge": "^1.0.0",
-    "watch": "^0.16.0"
+    "watch": "^0.16.0",
+    "physis-label": "~/dev/src/physis-label"
   }
 }
